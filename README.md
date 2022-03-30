@@ -31,6 +31,7 @@ GPLv3
 
 # Author Information
 Created by [Caio Delgado](https://linktr.ee/caiodelgadonew)
+
 Modified by Sergio Silva
 
 Contributions are more than welcome!
