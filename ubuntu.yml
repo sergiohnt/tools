@@ -35,6 +35,8 @@
           - remmina
           - retroarch
           - steam
+          - guake
+          - kdeconnect
 
     - block:
       - name: Verify if Oh-My-zsh is installed
