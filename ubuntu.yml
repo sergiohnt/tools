@@ -17,9 +17,6 @@
           - wget
           - tree
           - apt-transport-https
-          - ca-certificates
-          - gnupg
-          - python3-pip
           - make
           - git
           - bash-completion
@@ -27,6 +24,17 @@
           - zsh
           - flameshot
           - terraform
+          - okular
+          - dropbox
+          - caffeine
+          - authy
+          - discord
+          - notepadqq
+          - keepassxc
+          - filezilla4
+          - remmina
+          - retroarch
+          - steam
 
     - block:
       - name: Verify if Oh-My-zsh is installed
